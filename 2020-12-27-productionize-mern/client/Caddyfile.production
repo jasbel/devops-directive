@@ -1,5 +1,5 @@
 mern.mysuperawesomesite.com:443 {
-  tls sid.palas@gmail.com
+  tls asbel.elmec@gmail.com
   root * /srv
   route {
     reverse_proxy /api* api-server:5000
